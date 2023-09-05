@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+}
+
+#sideBox {
+    width: 400px;
+    height: 900px;
+    border: 1px solid black;
+}
+
+#table-list {
+    width: 350px;
+    list-style-type: none;
+    padding: 5px;
+}
+
+#content {
+    position: relative;
+    left: 250px;
+    top: 90px;
+    width: 800px;
+}
+
+#addBtn {
+    position: absolute;
+    top: 910px;
+}
+
+#modelBtn {
+    position: absolute;
+    left: 92%;
+    top: 10px;
+    display: none;
+}
